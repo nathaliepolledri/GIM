@@ -23,9 +23,8 @@ function draw() {
   for (let i = 0; i < palline.length; i++) {
     let p = palline[i];
     ellipse(p.x, p.y, p.diametro, p.diametro);
-    p.y += p.speed; // Aggiorna la posizione y della pallina di neve
+    p.y += p.speed;
 
-    // Se la pallina va fuori dalla finestra, riportala in cima
     if (p.y > height) {
       p.y = -p.diametro;
       p.x = random(0, width);
