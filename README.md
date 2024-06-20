@@ -3,7 +3,7 @@ Corso di grafica in movimento
 SUPSI  
 2024
 
-### esercizio 1b
+### Esercizio 1A
 #### acceso spento 2
 https://nathaliepolledri.github.io/GIM/Esercizio_1A/acceso_spento_2.html
 
@@ -28,6 +28,22 @@ https://nathaliepolledri.github.io/GIM/Esercizio_1A/spostamento_2.html
 #### spostamento 3
 https://nathaliepolledri.github.io/GIM/Esercizio_1A/spostamento_3.html
 
-### esercizio 1b
-#### dittico corsia
+### Esercizio 1B
+#### dittico
 https://nathaliepolledri.github.io/GIM/Esercizio_1B/indexA.html
+
+### Esercizio 2
+#### parola
+https://nathaliepolledri.github.io/GIM/Esercizio_2/desperation.html
+
+### Esercizio 3A
+#### orologio personale (helios)
+https://nathaliepolledri.github.io/GIM/Esercizio_3A/index.html
+
+### Esercizio 3B
+#### pioggia
+https://nathaliepolledri.github.io/GIM/Esercizio_3B/pioggia/index.html
+
+#### pong
+https://nathaliepolledri.github.io/GIM/Esercizio_3B/pong/index.html
+
