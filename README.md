@@ -49,4 +49,3 @@ https://nathaliepolledri.github.io/GIM/Esercizio_3B/neve/index.html
 
 #### pong
 https://nathaliepolledri.github.io/GIM/Esercizio_3B/pong/index.html
-
