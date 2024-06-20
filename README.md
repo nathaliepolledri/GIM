@@ -38,7 +38,7 @@ https://nathaliepolledri.github.io/GIM/Esercizio_2/desperation.html
 
 ### Esercizio 3A
 #### orologio personale (helios)
-https://nathaliepolledri.github.io/GIM/Esercizio_3A/index.html
+https://nathaliepolledri.github.io/GIM/Esercizio_3A/helios/index.html
 
 ### Esercizio 3B
 #### pioggia
