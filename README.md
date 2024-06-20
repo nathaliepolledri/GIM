@@ -32,6 +32,10 @@ https://nathaliepolledri.github.io/GIM/Esercizio_1A/spostamento_3.html
 #### dittico
 https://nathaliepolledri.github.io/GIM/Esercizio_1B/indexA.html
 
+### Esercizio 1C
+#### breve commento
+https://nathaliepolledri.github.io/GIM/Esercizio_1c/breve_commento
+
 ### Esercizio 2
 #### parola
 https://nathaliepolledri.github.io/GIM/Esercizio_2/desperation.html
