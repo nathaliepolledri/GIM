@@ -34,7 +34,7 @@ https://nathaliepolledri.github.io/GIM/Esercizio_1B/indexA.html
 
 ### Esercizio 1C
 #### breve commento
-https://nathaliepolledri.github.io/GIM/Esercizio_1c
+https://nathaliepolledri.github.io/GIM/Esercizio_1C
 
 ### Esercizio 2
 #### parola
