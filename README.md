@@ -3,12 +3,6 @@ Corso di grafica in movimento
 SUPSI  
 2024
 
-# ciao
-
-Lista:
-- cat
-- dog
-- rat
-- cow
-
-[google] (https://)
+### Esercizio_1A
+## acceso_spento_2
+https://nathaliepolledri.github.io/GIM/Esercizio_1A/acceso_spento_2.html
